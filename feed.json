@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BrevardPC.com",
+    "description": "",
+    "home_page_url": "https://www.brevardpc.com",
+    "feed_url": "https://www.brevardpc.com/feed.json",
+    "user_comment": "",
+    "icon": "https://www.brevardpc.com/media/website/Douglas_PC_Logo.jpg",
+    "author": {
+        "name": "Eric Douglas"
+    },
+    "items": [
+        {
+            "id": "https://www.brevardpc.com/tech-support/",
+            "url": "https://www.brevardpc.com/tech-support/",
+            "title": "Tech Support",
+            "summary": "Technology is ever changing in the world, we enjoy keeping informed and&hellip;",
+            "content_html": "<p>Technology is ever changing in the world, we enjoy keeping informed and knowledgeable.  We can help businesses utilize the innovations of todays top talent, advise, consult.  Keeping up to date on the most effective ways to modernize your business, we would enjoy to be your trusted advisor to help find solutions to the areas that would benefit the most for your company.  We can help.</p>\n<p> </p>",
+            "author": {
+                "name": "Eric Douglas"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-21T16:14:42-05:00",
+            "date_modified": "2024-09-25T17:15:35-04:00"
+        }
+    ]
+}
