@@ -3,12 +3,32 @@
     <title>BrevardPC.com</title>
     <link href="https://brevardpc.com/feed.xml" rel="self" />
     <link href="https://brevardpc.com" />
-    <updated>2024-10-03T14:33:36-04:00</updated>
+    <updated>2024-10-03T14:51:53-04:00</updated>
     <author>
         <name>Eric Douglas</name>
     </author>
     <id>https://brevardpc.com</id>
 
+    <entry>
+        <title>AI automations</title>
+        <author>
+            <name>Eric Douglas</name>
+        </author>
+        <link href="https://brevardpc.com/ai-automations/"/>
+        <id>https://brevardpc.com/ai-automations/</id>
+
+        <updated>2024-10-03T14:51:53-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Let us design, or engineer your AI automations, custom programming for marketing, sales, communications, internet connections for multiple locations with safe secure place&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Let us design, or engineer your AI automations, custom programming for marketing, sales, communications, internet connections for multiple locations with safe secure place for your data, emails, websites, and online reputation with continuance of services for compliance and future planning top of mind.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tech Support</title>
         <author>
