@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>BrevardPC.com</title>
-    <link href="https://www.brevardpc.com/feed.xml" rel="self" />
-    <link href="https://www.brevardpc.com" />
-    <updated>2024-09-25T17:15:35-04:00</updated>
+    <link href="https://brevardpc.com/feed.xml" rel="self" />
+    <link href="https://brevardpc.com" />
+    <updated>2024-10-03T13:55:11-04:00</updated>
     <author>
         <name>Eric Douglas</name>
     </author>
-    <id>https://www.brevardpc.com</id>
+    <id>https://brevardpc.com</id>
 
     <entry>
         <title>Tech Support</title>
         <author>
             <name>Eric Douglas</name>
         </author>
-        <link href="https://www.brevardpc.com/tech-support/"/>
-        <id>https://www.brevardpc.com/tech-support/</id>
+        <link href="https://brevardpc.com/tech-support/"/>
+        <id>https://brevardpc.com/tech-support/</id>
 
         <updated>2022-11-21T16:14:42-05:00</updated>
             <summary>
