@@ -3,12 +3,106 @@
     <title>BrevardPC.com</title>
     <link href="https://brevardpc.com/feed.xml" rel="self" />
     <link href="https://brevardpc.com" />
-    <updated>2024-10-03T14:51:53-04:00</updated>
+    <updated>2024-10-05T13:58:12-04:00</updated>
     <author>
         <name>Eric Douglas</name>
     </author>
     <id>https://brevardpc.com</id>
 
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Eric Douglas</name>
+        </author>
+        <link href="https://brevardpc.com/contact-2/"/>
+        <id>https://brevardpc.com/contact-2/</id>
+            <category term="business"/>
+
+        <updated>2024-10-05T13:54:05-04:00</updated>
+            <summary>
+                <![CDATA[
+                    DOUGLAS PC LLC Contact: ERIC DOUGLAS Schedule a Meeting Eric@DouglasPC.com 321-302-0036
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p class="align-center">DOUGLAS PC LLC</p>
+<p class="align-center">Contact: ERIC DOUGLAS</p>
+<p class="align-center"><a href="https://calendly.com/douglaspc" target="_blank" rel="noopener noreferrer">Schedule a Meeting</a></p>
+<p class="align-center"><br><a href="mailto:Eric@DouglasPC.com" target="_blank" rel="noopener noreferrer">Eric@DouglasPC.com</a></p>
+<p class="align-center"><br><a href="tel:321-302-0036" target="_blank" rel="noopener noreferrer">321-302-0036</a></p>
+<p class="align-center"> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Technology</title>
+        <author>
+            <name>Eric Douglas</name>
+        </author>
+        <link href="https://brevardpc.com/technology/"/>
+        <id>https://brevardpc.com/technology/</id>
+
+        <updated>2024-10-05T13:52:53-04:00</updated>
+            <summary>
+                <![CDATA[
+                    We are looking to provide custom solutions for the issues and problems you are dealing with. Contact us to discover ways to optimize&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We are looking to provide custom solutions for the issues and problems you are dealing with. Contact us to discover ways to optimize your business with technical advancements of today ’s top talent and innovations. <br><br><br><br><br>Internet Connections<br>Business Internet Services, Network Protections, Auto-Switching ISP backup<br><br><br>Secure Communications<br>Unified Communication Systems with text, phone, and video, CRM, ERP, business integrations<br><br><br><br>Cyber Security<br>Monitored Next Generation Protections, Managed Detection &amp;Recovery, Business Continuity, Security Audits, and Penetration Testing</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Managed</title>
+        <author>
+            <name>Eric Douglas</name>
+        </author>
+        <link href="https://brevardpc.com/managed/"/>
+        <id>https://brevardpc.com/managed/</id>
+            <category term="technology"/>
+            <category term="computers"/>
+
+        <updated>2024-10-05T13:51:39-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Technology management in a ever changing in the world, we enjoy keeping informed and knowledgeable. We can help businesses utilize the innovations of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Technology management in a ever changing in the world, we enjoy keeping informed and knowledgeable.  We can help businesses utilize the innovations of todays top talent, advise, consult.  Keeping up to date on the most effective ways to modernize your business, we would enjoy to be your trusted advisor to help find solutions to the areas that would benefit the most for your company. </p>
+<p>Connect with us for technical services, computer technical support, or tech equipment advisement, consulting, and sales for software and hardware equipment computers, laptops, and tablets.</p>
+<p>Contact Eric at Douglas PC - 321-302-0036</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Communications</title>
+        <author>
+            <name>Eric Douglas</name>
+        </author>
+        <link href="https://brevardpc.com/communications-2/"/>
+        <id>https://brevardpc.com/communications-2/</id>
+            <category term="Communications"/>
+
+        <updated>2024-10-05T13:50:32-04:00</updated>
+            <summary>
+                <![CDATA[
+                    We help find more ways to keep you in touch with customers, and more of keeping on top what what there is to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We help find more ways to keep you in touch with customers, and more of keeping on top what what there is to know about helping make your customers happy.  With our selection of communications platforms, we combine chat, voice, text, and websites to tie all these into your computers with accessing the data from your customers information telling out about past conversations, orders, and chats that they want you to have available quickly.  Make your menu system easy with customized solutions to make things fit for your business and easier for your customers.</p>
+<p>VOIP, UCaaS - Unified Communications, Voice over IP, POTs, CRM, ERP, all these can be used to help organize a business better to help customers, vendors, and workflow of communications.</p>
+<p>We provide help with our network to access more options, better deals, and the best available connections, even taking in consideration for billing consolidations for internet services, office networking, VOIP, voice phones, digital-fax, email, marketing, online access &amp; presence and more offerings for managed services for professionals.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>AI automations</title>
         <author>
