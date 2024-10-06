@@ -5,7 +5,7 @@
     "home_page_url": "https://brevardpc.com",
     "feed_url": "https://brevardpc.com/feed.json",
     "user_comment": "",
-    "icon": "https://brevardpc.com/media/website/Douglas_PC_Logo-banner.png",
+    "icon": "https://brevardpc.com/media/website/Douglas-PC.svg",
     "author": {
         "name": "Eric Douglas"
     },
@@ -96,7 +96,7 @@
             "tags": [
             ],
             "date_published": "2022-11-21T16:14:42-05:00",
-            "date_modified": "2024-10-06T13:00:39-04:00"
+            "date_modified": "2024-10-06T13:05:38-04:00"
         }
     ]
 }
